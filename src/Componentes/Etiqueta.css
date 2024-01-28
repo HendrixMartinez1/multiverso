@@ -1,0 +1,34 @@
+.imagen-type {
+max-width: 600px;
+border-radius: 23px;
+}
+
+body {
+    background-image: url(https://4.bp.blogspot.com/-3nTW2ymT9bU/UlRZ2TyhsXI/AAAAAAAArKE/GNnMy4BnE0s/s1600/reWalls.com_59875.jpg);
+}
+
+.loren{
+    font-family: cursive;
+    color:#fffbae ;
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+
+.f2{
+    font-family: cursive;
+    color:#d8dfed  ;
+    text-align: justify;
+    
+}
+
+.f3{
+    font-family: cursive;
+    font-style: oblique;
+   color: #3c3331;
+}
+
+.colormenu{
+    color: #3c3331;
+ }   
